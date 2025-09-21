@@ -211,23 +211,10 @@ The model identifies key conversion drivers:
 - [ ] Automated retraining pipeline
 - [ ] A/B testing automation framework
 
-## 📞 Contact & Collaboration
-
-**Author**: [Your Name]  
-**Email**: [your.email@domain.com]  
-**LinkedIn**: [Your LinkedIn Profile]  
-**Portfolio**: [Your Portfolio Website]
-
 ---
 
-### 🤝 Contributing
-Interested in contributing? Please read our [Contributing Guidelines](CONTRIBUTING.md) and submit a pull request!
-
-### 📄 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ### 🙏 Acknowledgments
-- Dataset provided by [Source Name]
+- Dataset provided by kaggle
 - Inspired by industry best practices in marketing analytics
 - Built with open-source ML frameworks
 
